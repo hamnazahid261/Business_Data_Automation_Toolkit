@@ -1,0 +1,11 @@
+property_id,location,property_type,price,size_sqft,status
+P001,DHA Karachi,House,25000000,1200,Available
+P002,Bahria Town,Flat,8500000,900,Available
+P003,Gulshan Karachi,House,18000000,1500,Sold
+P004,Clifton Karachi,Flat,12000000,800,Available
+P005,DHA Karachi,Plot,-500000,500,Available
+P006,Bahria Town,House,not_available,1800,Available
+P007,Gulshan Karachi,Flat,,750,Available
+P008,Clifton Karachi,House,32000000,2000,Sold
+P008,Clifton Karachi,House,32000000,2000,Sold
+P010,DHA Karachi,Plot,9500000,-300,Available

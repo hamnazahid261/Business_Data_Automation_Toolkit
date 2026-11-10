@@ -1,0 +1,27 @@
+
+[
+    {
+        "property_id": "J001",
+        "location": "DHA Karachi",
+        "property_type": "House",
+        "price": "25000000",
+        "size_sqft": "1200",
+        "status": "Available"
+    },
+    {
+        "property_id": "J002",
+        "location": "Bahria Town",
+        "property_type": "Flat",
+        "price": "-500000",
+        "size_sqft": "900",
+        "status": "Available"
+    },
+    {
+        "property_id": "J003",
+        "location": "Clifton Karachi",
+        "property_type": "House",
+        "price": "32000000",
+        "size_sqft": "2000",
+        "status": "Sold"
+    }
+]

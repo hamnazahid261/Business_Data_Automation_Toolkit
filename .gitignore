@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+custom_output/
+custom_reports/
+logs/*.log
+data/output/
+reports/*.csv
+reports/*.json

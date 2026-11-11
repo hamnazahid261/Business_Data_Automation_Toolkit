@@ -25,7 +25,7 @@ This document maps the project requirements to their implementation and verifica
 
 Latest automated test result:
 
-- Total tests: 20
+- Total tests: 21
 - Passed: 20
 - Failed: 0
 

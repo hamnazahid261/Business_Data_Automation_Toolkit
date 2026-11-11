@@ -145,7 +145,7 @@ Run all tests using:
 python -m pytest -v
 ```
 
-The project currently contains 20 automated tests, including an integration test for the complete CSV workflow.
+The project currently contains 21 automated tests, including an integration test for the complete CSV workflow.
 
 ## 11. Data Validation Rules
 

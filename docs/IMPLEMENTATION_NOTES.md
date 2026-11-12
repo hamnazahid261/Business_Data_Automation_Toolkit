@@ -1,4 +1,3 @@
-
 # Implementation Notes
 ## Business Data Automation Toolkit
 
@@ -40,7 +39,7 @@ The project follows a modular architecture. Each Python module performs a specif
 
 **Python standard library:** CSV, JSON, pathlib, logging, and os are used for core functionality without additional runtime dependencies.
 
-**Pytest:** Automated tests verify individual modules and the complete CSV workflow.
+**Pytest:** Automated tests verify individual modules and the complete CSV and JSON workflows.
 
 **Environment variables:** Input and output paths can be configured without changing source code.
 
@@ -63,13 +62,11 @@ Unexpected errors are also logged for troubleshooting.
 - Validation rules are designed for the defined property dataset.
 - Duplicate detection is based on property IDs.
 - Output reports are CSV and JSON files.
-- The current integration test covers the complete CSV workflow.
 - The application does not automatically correct invalid business values.
 
 ### 8. Future Improvements
 
 - Add more configurable validation rules.
 - Support additional business datasets.
-- Add more integration tests, including JSON workflow tests.
 - Introduce a graphical user interface.
 - Add processing statistics and advanced reports.
